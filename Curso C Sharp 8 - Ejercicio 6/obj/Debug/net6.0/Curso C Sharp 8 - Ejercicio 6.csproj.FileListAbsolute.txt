@@ -1,0 +1,15 @@
+C:\Users\maste\Documents\Curso C#\Curso C Sharp 8 - Ejercicio 6\Curso C Sharp 8 - Ejercicio 6\bin\Debug\net6.0\Curso C Sharp 8 - Ejercicio 6.exe
+C:\Users\maste\Documents\Curso C#\Curso C Sharp 8 - Ejercicio 6\Curso C Sharp 8 - Ejercicio 6\bin\Debug\net6.0\Curso C Sharp 8 - Ejercicio 6.deps.json
+C:\Users\maste\Documents\Curso C#\Curso C Sharp 8 - Ejercicio 6\Curso C Sharp 8 - Ejercicio 6\bin\Debug\net6.0\Curso C Sharp 8 - Ejercicio 6.runtimeconfig.json
+C:\Users\maste\Documents\Curso C#\Curso C Sharp 8 - Ejercicio 6\Curso C Sharp 8 - Ejercicio 6\bin\Debug\net6.0\Curso C Sharp 8 - Ejercicio 6.dll
+C:\Users\maste\Documents\Curso C#\Curso C Sharp 8 - Ejercicio 6\Curso C Sharp 8 - Ejercicio 6\bin\Debug\net6.0\Curso C Sharp 8 - Ejercicio 6.pdb
+C:\Users\maste\Documents\Curso C#\Curso C Sharp 8 - Ejercicio 6\Curso C Sharp 8 - Ejercicio 6\obj\Debug\net6.0\Curso C Sharp 8 - Ejercicio 6.csproj.AssemblyReference.cache
+C:\Users\maste\Documents\Curso C#\Curso C Sharp 8 - Ejercicio 6\Curso C Sharp 8 - Ejercicio 6\obj\Debug\net6.0\Curso C Sharp 8 - Ejercicio 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\Documents\Curso C#\Curso C Sharp 8 - Ejercicio 6\Curso C Sharp 8 - Ejercicio 6\obj\Debug\net6.0\Curso C Sharp 8 - Ejercicio 6.AssemblyInfoInputs.cache
+C:\Users\maste\Documents\Curso C#\Curso C Sharp 8 - Ejercicio 6\Curso C Sharp 8 - Ejercicio 6\obj\Debug\net6.0\Curso C Sharp 8 - Ejercicio 6.AssemblyInfo.cs
+C:\Users\maste\Documents\Curso C#\Curso C Sharp 8 - Ejercicio 6\Curso C Sharp 8 - Ejercicio 6\obj\Debug\net6.0\Curso C Sharp 8 - Ejercicio 6.csproj.CoreCompileInputs.cache
+C:\Users\maste\Documents\Curso C#\Curso C Sharp 8 - Ejercicio 6\Curso C Sharp 8 - Ejercicio 6\obj\Debug\net6.0\Curso C Sharp 8 - Ejercicio 6.dll
+C:\Users\maste\Documents\Curso C#\Curso C Sharp 8 - Ejercicio 6\Curso C Sharp 8 - Ejercicio 6\obj\Debug\net6.0\refint\Curso C Sharp 8 - Ejercicio 6.dll
+C:\Users\maste\Documents\Curso C#\Curso C Sharp 8 - Ejercicio 6\Curso C Sharp 8 - Ejercicio 6\obj\Debug\net6.0\Curso C Sharp 8 - Ejercicio 6.pdb
+C:\Users\maste\Documents\Curso C#\Curso C Sharp 8 - Ejercicio 6\Curso C Sharp 8 - Ejercicio 6\obj\Debug\net6.0\Curso C Sharp 8 - Ejercicio 6.genruntimeconfig.cache
+C:\Users\maste\Documents\Curso C#\Curso C Sharp 8 - Ejercicio 6\Curso C Sharp 8 - Ejercicio 6\obj\Debug\net6.0\ref\Curso C Sharp 8 - Ejercicio 6.dll

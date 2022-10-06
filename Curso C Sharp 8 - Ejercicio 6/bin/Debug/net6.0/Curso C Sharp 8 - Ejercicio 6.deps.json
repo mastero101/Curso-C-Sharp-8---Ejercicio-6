@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Curso C Sharp 8 - Ejercicio 6/1.0.0": {
+        "runtime": {
+          "Curso C Sharp 8 - Ejercicio 6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Curso C Sharp 8 - Ejercicio 6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
